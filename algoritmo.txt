@@ -1,1 +1,12 @@
-Resolvo
+#Soma de dois números
+
+Var
+
+escreva
+
+Leia-se número x 
+
+Leia-se número y
+
+Para X+Y=Z
+

@@ -1,12 +1,12 @@
 #Soma de dois números
 
-Var
+leia um número x 
 
-escreva
+leia um número y
 
-Leia-se número x 
+para x + y = z
 
-Leia-se número y
+escreva z
 
-Para X+Y=Z
+fim
 
